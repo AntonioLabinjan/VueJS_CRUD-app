@@ -1,5 +1,9 @@
 # vue-crud
 
+
+Basic CRUD app made using VueJS
+
+
 ## Project setup
 ```
 npm install
